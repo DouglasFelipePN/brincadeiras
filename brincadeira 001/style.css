@@ -1,0 +1,32 @@
+p{
+    display: inline-block;
+    font-size: 20px;
+    border: 1px solid rgb(29, 107, 59);
+    border-radius: 3px;
+    padding: 5px;
+    background-color: rgb(78, 175, 151);
+    margin: 1px;
+    margin-left: 3px;
+}
+button{
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgb(67, 202, 85);
+    display: block;
+    margin: auto;
+}
+.campo{
+    display: block;
+    border-radius: 10px;
+    margin: auto;
+    height: 20px;
+    width: 96vw;
+}
+.tela{
+    border-radius: 10px;
+    height: 96vh;
+    width: 97vw;
+    background-color:rgb(44, 93, 158) ;
+    margin: auto;
+    font-size: 12px;
+}
